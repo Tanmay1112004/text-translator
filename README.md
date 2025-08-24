@@ -19,8 +19,13 @@ An interactive **Streamlit app** that lets you:
 ---
 
 ## 🚀 Demo
-> _[Screenshot Placeholder]_  
-_Add your app screenshot here once running in Codespaces or locally._
+## 📸 Screenshots
+
+### Home Page
+![Home Page](https://github.com/Tanmay1112004/text-translator/blob/main/screenshots/Screenshot%202025-08-24%20192524.png)
+
+### Translation & Word Cloud
+![Translation Demo](https://github.com/Tanmay1112004/text-translator/blob/main/screenshots/Screenshot%202025-08-24%20192625.png)
 
 ---
 
@@ -28,7 +33,7 @@ _Add your app screenshot here once running in Codespaces or locally._
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/Tanmay1112004/<your-repo>.git
 cd <your-repo>
 ````
 
